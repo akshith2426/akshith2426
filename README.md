@@ -40,7 +40,7 @@
 
 
 ### 📫 Let’s Connect
-#####  📧 Email: **akshith292@gmail.com**
+#####  📧 Email: **vasa@usc.edu**
 #####  💼 LinkedIn: https://linkedin.com/in/sai-akshith-vasa
 
 💬 Ask me about **databases, distributed systems, backend architecture, or AI infra**
