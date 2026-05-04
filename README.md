@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Akshith Vasa
 
-##### 🎓 Master’s student in Computer Science at the **University of Southern California (USC)**<br>  <br> 🛠️ Software Engineer experienced in distributed systems, databases, and AI infrastructure, with prior experience at Amazon Web Services (AWS) and Hewlett Packard Enterprise (HPE)<br><br>🔍 **Currently seeking Software Engineer internship / co-op opportunities for Spring 2026 and full-time Software Engineer roles starting May 2026**
+##### 🎓 Master’s student in Computer Science at the **University of Southern California (USC)**<br>  <br> 🛠️ Software Engineer experienced in distributed systems, databases, and AI infrastructure, with prior experience at Amazon Web Services (AWS) and Hewlett Packard Enterprise (HPE)<br><br>🔍 **Currently seeking full-time Software Engineer roles starting May 2026**
 ---
 
 ### 🚀 What I’m Working On
-- Database internals, query optimization, and vector search systems  
+- Distributed Systems, Database internals, query optimization, and vector search systems  
 - Generative AI, NLP, and retrieval-augmented systems  
 - Scalable backend and cloud-native infrastructure
 
